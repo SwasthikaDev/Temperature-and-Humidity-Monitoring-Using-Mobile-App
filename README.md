@@ -2,6 +2,9 @@
 Temperature and Humidity Monitoring Using DHT11 Sensor and NodeMCU and Displaying it on a mobile app using thingspeak cloud and Mit App Inventor for the mobile app. 
 
 Start with looking on videos about MIT App Inventor
+Layout.png has the layout which you can refer and make
+
+Make sure you have given permission on thingspeak website 
 
 fig2.png -> proposed design
 
