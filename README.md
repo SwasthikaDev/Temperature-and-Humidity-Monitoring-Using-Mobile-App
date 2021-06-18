@@ -4,11 +4,20 @@ Temperature and Humidity Monitoring Using DHT11 Sensor and NodeMCU and Displayin
 Start with looking on videos about MIT App Inventor
 
 fig2.png -> proposed design
+
 fig3.png -> architecture
+
 fig4.png -> mobile app 
+
 fig5.png -> thingspeak channel
+
 fig8.png -> hardware
+
 fig9.png -> circuit connections 
+
 fig10.jpeg -> mobile app (About page)
+
 fig11.jpeg -> mobile app
+
 fig12.jpeg -> mobile app
+
